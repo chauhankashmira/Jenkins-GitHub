@@ -1,0 +1,1 @@
+{"0330fb3001a876eaa2878801c0b6923e:5bd835b0d6b1d4ada3b9f0db936e82c8":{"statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1},"items":[{"uid":"b7ba273a2c4aba7d","reportUrl":"http://localhost:8080/job/Jenkins-Local/1/allure/#testresult/b7ba273a2c4aba7d","status":"passed","time":{"start":1760279448264,"stop":1760279475198,"duration":26934}}]}}

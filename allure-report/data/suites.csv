@@ -1,0 +1,2 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","26934","End to End Testing @end-to-end","chromium","2025-10-12","passed","2025-10-12","","End-To-End.spec.ts","",""
