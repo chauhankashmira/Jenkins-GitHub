@@ -3,7 +3,7 @@
 //  another function will return data from CSV
 
 
-import fs from "fs"; //built-in module in JS/TS
+import fs from "fs"; //built-in module in Node.js
 import {parse} from "csv-parse/sync" ; //csv-parse will install earlier
 
 export class DataProvider {
